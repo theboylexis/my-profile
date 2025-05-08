@@ -29,6 +29,7 @@ I'm committed to continuous learning and improvement. Here's what I'm focusing o
 - Exploring developer tools and resources
 
  🚀 Current Projects
+ 
  [Work In Progress](https://github.com/YOURUSERNAME/project1)
 My first HTML/CSS project where I will create a responsive landing page to practice layout and styling techniques.
 
