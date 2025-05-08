@@ -1,7 +1,8 @@
  Hi there, I'm Alex 👋
 
  🌱 Learning Web Development
-I'm a beginner web developer currently focusing on building a strong foundation in HTML, CSS, and JavaScript. My goal is to eventually expand my skillset to include additional programming languages and frameworks.
+I'm a beginner web developer currently focusing on building a strong foundation in HTML, CSS, and JavaScript. My goal is to eventually expand my skillset to include additional programming languages and frameworks. My long-term goal is to become a Prolific Software Engineer to be able to develop innovative solutions that can have
+a positve impact in the society and the world at large.
 
 - 🔭 I'm currently working on small web projects to practice my skills
 - 🌱 I'm learning the fundamentals of front-end web development
