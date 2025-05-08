@@ -30,10 +30,10 @@ I'm committed to continuous learning and improvement. Here's what I'm focusing o
 
  🚀 Current Projects
  [Work In Progress](https://github.com/YOURUSERNAME/project1)
-My first HTML/CSS project where I created a responsive landing page to practice layout and styling techniques.
+My first HTML/CSS project where I will create a responsive landing page to practice layout and styling techniques.
 
  [Work In Progress](https://github.com/YOURUSERNAME/project2)
-A simple JavaScript application that helped me understand DOM manipulation and event handling.
+A simple JavaScript application that will help me understand DOM manipulation and event handling.
 
  [Work In Progress](https://github.com/YOURUSERNAME/project2)
 My final HTML/CSS project where I will create my personal Portfolio Website incorporating all the knowledge I have
