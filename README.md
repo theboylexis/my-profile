@@ -28,11 +28,16 @@ I'm committed to continuous learning and improvement. Here's what I'm focusing o
 - Exploring developer tools and resources
 
  🚀 Current Projects
- [Project 1 Name](https://github.com/YOURUSERNAME/project1)
-My first HTML/CSS project where I created a personal portfolio page to practice layout and styling techniques.
+ [Work In Progress](https://github.com/YOURUSERNAME/project1)
+My first HTML/CSS project where I created a responsive landing page to practice layout and styling techniques.
 
- [Project 2 Name](https://github.com/YOURUSERNAME/project2)
+ [Work In Progress](https://github.com/YOURUSERNAME/project2)
 A simple JavaScript application that helped me understand DOM manipulation and event handling.
+
+ [Work In Progress](https://github.com/YOURUSERNAME/project2)
+My final HTML/CSS project where I will create my personal Portfolio Website incorporating all the knowledge I have
+obtained in Web Development.
+
 
 
 ## 🛠️ Tools I'm Learning
