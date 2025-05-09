@@ -1,6 +1,7 @@
  Hi there, I'm Alex 👋
 
  🌱 Learning Web Development
+
 I'm a beginner web developer currently focusing on building a strong foundation in HTML, CSS, and JavaScript. My goal is to eventually expand my skillset to include additional programming languages and frameworks. My long-term goal is to become a Prolific Software Engineer to be able to develop innovative solutions that can have
 a positve impact in the society and the world at large.
 
@@ -20,6 +21,7 @@ JavaScript ████░░░░░░   20%
 ```
 
  📊 My Learning Journey
+
 I'm committed to continuous learning and improvement. Here's what I'm focusing on:
 
 - Understanding core web development concepts
@@ -54,6 +56,7 @@ obtained in Web Development.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theboylexis/)
 
 ## 🙏 Support & Mentorship
+
 I'm always looking for feedback on my code and projects. If you have suggestions or would like to mentor a beginner, please reach out!
 
 ---
