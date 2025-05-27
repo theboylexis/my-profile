@@ -7,7 +7,7 @@ a positve impact in the society and the world at large.
 
 - 🔭 I'm currently working on small web projects to practice my skills
 - 🌱 I'm learning the fundamentals of front-end web development
-- 🎯 My next learning targets include [React/Node.js/Python/etc.]
+- 🎯 My next learning targets include [React/Node.js/Javascript/TypeScript/etc.]
 - 👯 I'm looking to connect with other beginners for collaborative learning
 - 💬 Ask me about my learning journey and projects
   
