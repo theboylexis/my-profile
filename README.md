@@ -21,12 +21,11 @@ I'm a passionate developer on a journey to master **Backend Engineering** while 
 
 - 🔧 Strengthening my backend fundamentals
 - 📚 Learning new frameworks and technologies
-- 🤖 Getting hands-on with AI/ML concepts
 - 💭 Exploring how technology can solve real-world problems
 
 ## 🌱 Future Aspirations
 
-I'm excited about the intersection of **Technology and Innovation**. Whether it's building intelligent systems, creating robotic solutions, or launching the next big startup, I'm always looking for opportunities to learn, grow, and make an impact.
+I'm excited about the intersection of **Technology and Innovation**. Whether it's building intelligent systems or launching the next big startup, I'm always looking for opportunities to learn, grow, and make an impact.
 
 ## 📫 Let's Connect
 
