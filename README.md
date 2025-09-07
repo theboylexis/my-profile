@@ -39,8 +39,7 @@ I’m currently at the **beginning of my software engineering journey**, startin
 ---
 
 ## 📫 Connect with Me  
-- GitHub: [theboylexis](https://github.com/theboylexis)  
-- LinkedIn: *(linkedin.com/in/alex-marfo-appiah)*  
+- GitHub: [theboylexis](https://github.com/theboylexis)    
 - Email: *(alexmarfo50@gmail.com)*  
 
 ---
