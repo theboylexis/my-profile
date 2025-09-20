@@ -23,9 +23,9 @@ I’m currently at the **beginning of my software engineering journey**, startin
 
 ## 🛠️ Tech I’m Learning  
 - **Languages:** JavaScript (ES6+), HTML, CSS  
-- **Frontend:** React (coming soon), TailwindCSS  
+- **Frontend:** React, TailwindCSS  
 - **Backend:** Node.js, Express (coming soon)  
-- **Databases:** MongoDB, SQL (upcoming)  
+- **Databases:** MongoDB, SQL (coming soon)  
 - **Tools:** Git & GitHub  
 
 ---
