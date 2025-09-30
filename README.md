@@ -1,47 +1,18 @@
-# 👋 Hi, I'm Alex  
+# 💫 About Me:
+👋 Hi, I'm Alex<br>🚀 Aspiring Full Stack Engineer and Entrepreneur | Passionate about building, learning, and solving problems with code.<br><br>🌱 My Journey<br>I’m currently at the beginning of my software engineering journey, starting with JavaScript basics and gradually working my way through:<br><br>✅ Beginner Projects – strengthening fundamentals<br>🟡 Intermediate Projects – APIs, state, and more complex logic<br>🔴 Advanced Projects – real-world apps, scalable solutions<br>🧑‍💻 Full Stack Development – diving into frameworks, backend, and deployment<br>💡 What I’m Working On<br>Building a repository of JavaScript projects to track my growth.<br>Exploring modern web technologies (React, Node.js, Express, databases).<br>Preparing for internship opportunities by building meaningful projects.<br>🛠️ Tech I’m Learning<br>Languages: JavaScript (ES6+), HTML, CSS<br>Frontend: React, TailwindCSS<br>Backend: Node.js, Express (coming soon)<br>Databases: MongoDB, SQL (coming soon)<br>Tools: Git & GitHub<br>🎯 Goals for 2025<br>Master JavaScript from beginner → advanced.<br>Build my own full stack projects.<br>Consistently push code & grow my GitHub activity.<br>📫 Connect with Me<br>GitHub: theboylexis<br>Email: (alexmarfo50@gmail.com)<br>⭐ Follow my journey as I grow from a beginner into a confident Full Stack Engineer 🌍
 
-🚀 Aspiring **Full Stack Engineer and Entrepreneur** | Passionate about building, learning, and solving problems with code.  
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theboylexis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alex Marfo Appiah) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@theboylexis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexmarfo509@gmail.com) 
 
-## 🌱 My Journey  
-I’m currently at the **beginning of my software engineering journey**, starting with **JavaScript basics** and gradually working my way through:  
-
-- ✅ **Beginner Projects** – strengthening fundamentals  
-- 🟡 **Intermediate Projects** – APIs, state, and more complex logic  
-- 🔴 **Advanced Projects** – real-world apps, scalable solutions  
-- 🧑‍💻 **Full Stack Development** – diving into frameworks, backend, and deployment  
-
----
-
-## 💡 What I’m Working On  
-- Building a repository of **JavaScript projects** to track my growth.  
-- Exploring **modern web technologies** (React, Node.js, Express, databases).  
-- Preparing for **internship opportunities** by building meaningful projects.  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=theboylexis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=theboylexis&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theboylexis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=theboylexis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech I’m Learning  
-- **Languages:** JavaScript (ES6+), HTML, CSS  
-- **Frontend:** React, TailwindCSS  
-- **Backend:** Node.js, Express (coming soon)  
-- **Databases:** MongoDB, SQL (coming soon)  
-- **Tools:** Git & GitHub  
-
----
-
-## 🎯 Goals for 2025  
-- Master **JavaScript** from beginner → advanced.  
-- Build my own **full stack projects**.  
-- Consistently push code & grow my GitHub activity.  
-  
-
----
-
-## 📫 Connect with Me  
-- GitHub: [theboylexis](https://github.com/theboylexis)    
-- Email: *(alexmarfo50@gmail.com)*  
-
----
-
-⭐ *Follow my journey as I grow from a beginner into a confident **Full Stack Engineer*** 🌍  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
