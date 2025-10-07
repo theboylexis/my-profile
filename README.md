@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, I’m **Alex Marfo**  
+👋 Hi, I’m **Alex Marfo Appiah**  
 🚀 Aspiring **Full Stack Engineer & Entrepreneur** | Passionate about learning, building, and solving problems with code.  
 
 ---
@@ -33,7 +33,7 @@ Currently laying a strong foundation in **JavaScript** and progressively advanci
 - Master **JavaScript** (beginner → advanced)  
 - Build and deploy my own **full stack applications**  
 - Contribute consistently to GitHub & grow as a developer  
-- Land my **first internship** and gain real-world experience  
+  
 
 ---
 
