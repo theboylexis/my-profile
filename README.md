@@ -30,23 +30,26 @@ Currently laying a strong foundation in **JavaScript** and progressively advanci
 ---
 
 ### 🎯 Goals for 2025
-- Master **JavaScript** (beginner → advanced)  
-- Build and deploy my own **full stack applications**  
+- Master **JavaScript** (beginner → advanced)   
 - Contribute consistently to GitHub & grow as a developer  
   
 
 ---
 
 ### 📫 Let’s Connect
-- **GitHub:** [theboylexis](https://github.com/theboylexis)  
+- **GitHub:** [theboylexis](https://github.com/theboylexis)
+   
 - **Email:** [alexmarfo50@gmail.com](mailto:alexmarfo50@gmail.com)  
 
 ---
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theboylexis)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexmarfoappiah)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexmarfoappiah) 
+
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@theboylexis)  
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexmarfo50@gmail.com)  
 
 ---
