@@ -36,13 +36,6 @@ Currently laying a strong foundation in **JavaScript** and progressively advanci
 
 ---
 
-### 📫 Let’s Connect
-- **GitHub:** [theboylexis](https://github.com/theboylexis)
-   
-- **Email:** [alexmarfo50@gmail.com](mailto:alexmarfo50@gmail.com)  
-
----
-
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theboylexis)  
 
