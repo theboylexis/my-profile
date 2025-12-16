@@ -1,6 +1,6 @@
 # 💫 About Me
 👋 Hi, I’m **Alex Marfo Appiah**  
-🚀 Aspiring **Full Stack Engineer & Entrepreneur** | Passionate about learning, building, and solving problems with code.  
+🚀 Emerginh **Full Stack Engineer & Entrepreneur** | Passionate about learning, building, and solving problems with code.  
 
 ---
 
@@ -20,18 +20,10 @@ Currently laying a strong foundation in **JavaScript** and progressively advanci
 
 ---
 
-### 🛠️ Tech Stack (Learning & Using)
-- **Languages:** JavaScript (ES6+), TypeScript
-- **Frontend:** React, TailwindCSS  
-- **Backend:** Node.js, Express *(coming soon)*  
-- **Databases:** MongoDB, SQL *(coming soon)*  
-- **Tools:** Git & GitHub  
-
----
 
 ### 🎯 Goals for 2025
 - Master **JavaScript** (beginner → advanced)   
-- Contribute consistently to GitHub & grow as a developer  
+- Contribute consistently to GitHub & grow as a engineer  
   
 
 ---
