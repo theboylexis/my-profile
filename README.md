@@ -1,6 +1,6 @@
 # 💫 About Me
 👋 Hi, I’m **Alex Marfo Appiah**  
-🚀 Emerginh **Full Stack Engineer & Entrepreneur** | Passionate about learning, building, and solving problems with code.  
+🚀 Emerging **Full Stack Engineer & Entrepreneur** | Passionate about learning, building, and solving problems with code.  
 
 ---
 
